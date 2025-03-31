@@ -49,4 +49,4 @@ These notes are meant to:
 
 ---
 
-Feel free to explore, use, or adapt these notes for your own learning or tutoring.
+Feel free to explore, use, or adapt these notes for your own learning.
