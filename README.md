@@ -1,8 +1,8 @@
 # Tutoring Notes Repository
 
-Welcome to my personal collection of PDF notes and slides created for tutoring first-year students at the University of Toronto Scarborough (UTSC). These materials were designed to help students strengthen their mathematical foundations and prepare for competitive program admissions at the end of first year.
+Welcome to my personal collection of PDF notes and slides created for tutoring first-year students at the University of Toronto Scarborough (UTSC). These materials were designed to help students strengthen their mathematical foundations, enjoy a creative aspect of pure mathematics, and prepare for competitive program admissions at the end of first year. 
 
-Each document in this repository was carefully written to provide clear explanations, intuitive motivation, and rigorous proofs for core mathematical concepts. Whether you're reviewing linear algebra, analysis, topology, or discrete math, I hope these notes serve as a useful companion to your studies.
+Each document in this repository was carefully written to provide clear explanations, intuitive motivation, and rigorous proofs for core mathematical concepts. 
 
 ---
 
@@ -13,8 +13,13 @@ A self-made slide deck introducing the concept that every vector space has a bas
 
 ---
 
+### tutoring_notes_on_ultrafilter.pdf
+One of my favorite documents, this guide introduces students to ultrafilters—an advanced and elegant topic in set theory and topology. It covers two cool results: the Ultrafilter Theorem and a result related to the finite intersection property. Though challenging, we could cover up to the end of the first cool theorem in tutoring, and Zorn’s Lemma was used in the proofs to illustrate its power.
+
+---
+
 ### Proof_Infinite_Prime.pdf
-This document presents a lesser-known proof of the infinitude of prime numbers using topological arguments. It includes a brief introduction to topology to make the material accessible to beginners. The goal was to show my student a beautiful and unexpected way in which different branches of mathematics connect.
+This document presents a lesser-known proof of the infinitude of prime numbers using topological arguments. It includes a brief introduction to topology at the beginning to make the material accessible. The goal was to show my student a beautiful and unexpected way in which different branches of mathematics convey the same idea. My student enjoyed this version of proof for infinite primes. 
 
 ---
 
@@ -28,10 +33,6 @@ This document introduces students to the basics of real analysis and abstract ma
 
 ---
 
-### tutoring_notes_on_ultrafilter.pdf
-One of my favorite documents, this guide introduces students to ultrafilters—an advanced and elegant topic in set theory and topology. It covers two main results: the Ultrafilter Theorem and a result related to the finite intersection property. Though challenging, the first theorem was covered in tutoring, and Zorn’s Lemma was used in the proofs to illustrate its power.
-
----
 
 ### A_Hausdorff_Noetherian_Space_Is_Finite.pdf
 A note exploring an interesting topological result: that a Hausdorff Noetherian space must be finite. Although I haven’t yet used this document in tutoring sessions, it was intended to introduce my student to higher-level topology once they’ve mastered the fundamentals.
