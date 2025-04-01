@@ -35,7 +35,7 @@ This document introduces students to the basics of real analysis and abstract ma
 
 
 ### A_Hausdorff_Noetherian_Space_Is_Finite.pdf
-A note exploring an interesting topological result: that a Hausdorff Noetherian space must be finite. Although I haven’t yet used this document in tutoring sessions, it was intended to introduce my student to higher-level topology once they’ve mastered the fundamentals.
+A note exploring an interesting topological result: that a Hausdorff Noetherian space must be finite. Although I haven’t yet used this document in tutoring sessions, it was intended to introduce my student to a little higher-level concept once they’ve mastered the fundamentals.
 
 ---
 
